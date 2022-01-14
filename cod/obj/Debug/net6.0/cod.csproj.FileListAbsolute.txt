@@ -1,0 +1,16 @@
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\cod.exe
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\cod.deps.json
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\cod.runtimeconfig.json
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\cod.dll
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\ref\cod.dll
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\bin\Debug\net6.0\cod.pdb
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.GlobalUsings.g.cs
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.csproj.AssemblyReference.cache
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.AssemblyInfoInputs.cache
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.AssemblyInfo.cs
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.csproj.CoreCompileInputs.cache
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.dll
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\ref\cod.dll
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.pdb
+C:\Users\sapav\OneDrive\Рабочий стол\Final\cod\obj\Debug\net6.0\cod.genruntimeconfig.cache
